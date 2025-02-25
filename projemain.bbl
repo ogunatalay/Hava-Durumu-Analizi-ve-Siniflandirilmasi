@@ -1,0 +1,53 @@
+\begin{thebibliography}{1}
+
+\bibitem{hosny2018artificial}
+A.~Hosny, C.~Parmar, J.~Quackenbush, L.~H. Schwartz, and H.~J. Aerts.
+\newblock Artificial intelligence in radiology.
+\newblock {\em Nature Reviews Cancer}, 18(8):500--510, 2018.
+
+\bibitem{greenspan2016guest}
+H.~Greenspan, B.~Van~Ginneken, and R.~M. Summers.
+\newblock Guest editorial deep learning in medical imaging: Overview and future
+  promise of an exciting new technique.
+\newblock {\em IEEE Transactions on Medical Imaging}, 35(5):1153--1159, 2016.
+
+\bibitem{johnson2018artificial}
+K.~W. Johnson, J.~T. Soto, B.~S. Glicksberg, K.~Shameer, R.~Miotto, M.~Ali, and
+  J.~T. Dudley.
+\newblock Artificial intelligence in cardiology.
+\newblock {\em Journal of the American College of Cardiology},
+  71(23):2668--2679, 2018.
+
+\bibitem{littman2015reinforcement}
+M.~L. Littman.
+\newblock Reinforcement learning improves behaviour from evaluative feedback.
+\newblock {\em Nature}, 71(521):445--451, 2015.
+
+\bibitem{ananthr1_weather_prediction}
+Ananth R.
+\newblock Weather prediction data set, 2021.
+\newblock Accessed: 2024-06-09.
+
+\bibitem{omu_logistic_regression}
+{OMÜ | Ondokuz Mayıs Üniversitesi}.
+\newblock Lojistik regresyon analizi, 2024.
+\newblock Accessed: 2024-06-09.
+
+\bibitem{medium_knn}
+{Machine Learning Türkiye}.
+\newblock Knn: K en yakın komşu, 2018.
+\newblock Accessed: 2024-06-09.
+
+\bibitem{decision_tree_id3}
+Erdinç Uzun.
+\newblock Decision tree - karar ağacı (id3 algoritması) - classification -
+  sınıflama, 2021.
+\newblock Accessed: 2024-06-09.
+
+\bibitem{svm_medium}
+{Deep Learning Türkiye}.
+\newblock Nedir bu destek vektör makineleri? - makine Öğrenmesi serisi 2,
+  2019.
+\newblock Accessed: 2024-06-09.
+
+\end{thebibliography}
